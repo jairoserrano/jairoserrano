@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jairoserrano
 - 👀 I’m interested in Agent Based Social Simulation and Monitoring of Photovoltaic Systems
 - 🌱 I'm currently in a PhD program on Computation and Engineering.
-- 💞️ I’m looking to collaborate on Agent Based Social Simulation
+- 💞️ I’m looking for collaboration on Agent Based Social Simulation
 - 📫 How to reach me: jairo.serrano@gmail.com
 
 <!---
