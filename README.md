@@ -37,7 +37,6 @@ Currently, I serve as the **Coordinator of the Computing Emphasis for the Master
 **AI, Data & Simulation:**
 ![Artificial Intelligence](https://img.shields.io/badge/AI_&_MicroLLMs-FF9900?style=flat-square&logo=openai&logoColor=white)
 ![Agent-Based Models](https://img.shields.io/badge/Agent--Based_Models-150458?style=flat-square&logo=coda&logoColor=white)
-![Data Profiling](https://img.shields.io/badge/User_Profiling-8B0000?style=flat-square&logo=databricks&logoColor=white)
 
 **DevOps, Infrastructure & EdTech:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -81,5 +80,5 @@ I am actively looking for collaboration on **Agent-Based Social Simulation in LL
 
 ---
 <p align="center">
-  <i>"Transforming education and technology from the Colombian Caribbean."</i>
+  <i>"Transforming education and technology from the Caribe Colombiano."</i>
 </p>
