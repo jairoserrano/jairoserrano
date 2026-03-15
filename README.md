@@ -75,7 +75,7 @@ Feel free to check my full academic profiles:
 I am actively looking for collaboration on **Agent-Based Social Simulation in LLM contexts**, as well as innovative projects in **Technology-Mediated Education**. If you are exploring the intersection of multi-agent systems, AI, and educational technology, I would love to connect.
 
 ### 📫 Reach Out
-- 📧 **Email:** [jairo.serrano@gmail.com](mailto:jairo.serrano@gmail.com)
+- 📧 **Email:** [jairo.serrano@gmail.com](mailto:jairo.serrano@gmail.com) / [jserrano@utb.edu.co](mailto:jserrano@utb.edu.co)
 - 📍 **Location:** Cartagena, Colombia
 
 ---
